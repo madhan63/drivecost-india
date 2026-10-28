@@ -1,13 +1,34 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://example.com/</loc></url>
-  <url><loc>https://example.com/fuel-cost.html</loc></url>
-  <url><loc>https://example.com/mileage.html</loc></url>
-  <url><loc>https://example.com/trip-cost.html</loc></url>
-  <url><loc>https://example.com/guides.html</loc></url>
-  <url><loc>https://example.com/about.html</loc></url>
-  <url><loc>https://example.com/contact.html</loc></url>
-  <url><loc>https://example.com/privacy.html</loc></url>
-  <url><loc>https://example.com/terms.html</loc></url>
-  <url><loc>https://example.com/disclaimer.html</loc></url>
+  <url>
+    <loc>https://madhan63.github.io/drivecost-india/</loc>
+  </url>
+  <url>
+    <loc>https://madhan63.github.io/drivecost-india/fuel-cost.html</loc>
+  </url>
+  <url>
+    <loc>https://madhan63.github.io/drivecost-india/mileage.html</loc>
+  </url>
+  <url>
+    <loc>https://madhan63.github.io/drivecost-india/trip-cost.html</loc>
+  </url>
+  <url>
+    <loc>https://madhan63.github.io/drivecost-india/guides.html</loc>
+  </url>
+  <url>
+    <loc>https://madhan63.github.io/drivecost-india/about.html</loc>
+  </url>
+  <url>
+    <loc>https://madhan63.github.io/drivecost-india/contact.html</loc>
+  </url>
+  <url>
+    <loc>https://madhan63.github.io/drivecost-india/privacy.html</loc>
+  </url>
+  <url>
+    <loc>https://madhan63.github.io/drivecost-india/terms.html</loc>
+  </url>
+  <url>
+    <loc>https://madhan63.github.io/drivecost-india/disclaimer.html</loc>
+  </url>
 </urlset>
